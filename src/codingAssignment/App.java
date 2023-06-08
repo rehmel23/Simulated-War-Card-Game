@@ -5,6 +5,11 @@ import java.util.Scanner;
 /**
  * War Card Game App
  * 
+ * Game is 26 rounds. Each player flips over the top card of
+ * their hand. The player with the highest value card is the winner of the round
+ * and recieves a point. Player with the most points at the end of the game,
+ * wins!
+ * 
  * @author clayr
  *
  */
